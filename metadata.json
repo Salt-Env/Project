@@ -1,0 +1,6 @@
+{
+  "name": "NusantaraHR - Enterprise HRIS Architecture & Suite",
+  "description": "Sistem Informasi Manajemen Sumber Daya Manusia (HRIS) komprehensif dengan 4 modul utama: Data Karyawan, Kehadiran, Payroll, dan Rekrutmen, dilengkapi arsitektur MySQL & REST API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
